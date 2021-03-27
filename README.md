@@ -1,2 +1,2 @@
-# sass-fundamental
-sass fundamental
+# scss-fundamental
+scss fundamental
